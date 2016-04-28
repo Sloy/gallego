@@ -31,12 +31,12 @@ This little library lets you use Optionals without adding more code than needed.
 The library is available in *JCenter*.
 
 Gradle:
-```
+```groovy
 compile 'com.sloydev:gallego:1.0.0'
 ```
 
 Maven:
-```
+```xml
 <dependency>
   <groupId>com.sloydev</groupId>
   <artifactId>gallego</artifactId>
