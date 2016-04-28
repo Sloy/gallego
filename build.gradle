@@ -1,0 +1,34 @@
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.novoda:bintray-release:0.3.4'
+    }
+}
+
+repositories {
+    jcenter()
+}
+
+apply plugin: 'java'
+apply plugin: 'com.novoda.bintray-release'
+
+sourceCompatibility = 1.7
+
+
+publish {
+    userOrg = 'sloy'
+    groupId = 'com.sloydev'
+    artifactId = 'gallego'
+    publishVersion = '1.0.0'
+    desc = 'Lightweight Optionals for Java 7'
+    website = 'https://github.com/Sloy/gallego'
+}
+
+dependencies {
+    compile 'com.artjimlop:chernobyl:1.0.0'
+    compile 'com.google.code.findbugs:jsr305:3.0.0'
+    testCompile 'com.google.truth:truth:0.28'
+    testCompile group: 'junit', name: 'junit', version: '4.11'
+}
