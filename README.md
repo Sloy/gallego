@@ -5,7 +5,7 @@ Optionals for Java 7
 >
 > — *Someone in Galicia*
 
-[![Bintray](https://img.shields.io/bintray/v/sloy/maven/gallego.svg?maxAge=2592000)](https://bintray.com/sloy/maven/gallego/)
+[![Build Status](https://travis-ci.org/Sloy/gallego.svg?branch=master)](https://travis-ci.org/Sloy/gallego) [![Bintray](https://img.shields.io/bintray/v/sloy/maven/gallego.svg?maxAge=2592000)](https://bintray.com/sloy/maven/gallego/)
 
 This a lightweight copy of [Guava's Optional](https://github.com/google/guava/blob/master/guava/src/com/google/common/base/Optional.java) interface.
 
