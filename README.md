@@ -1,7 +1,7 @@
 # Gallego
 Optionals for Java 7
 
-> It depens...
+> It depends...
 >
 > — *Someone in Galicia*
 
