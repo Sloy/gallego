@@ -3,7 +3,7 @@ Optionals for Java 7
 
 > It depends...
 >
-> — *Someone in Galicia*
+> — *Someone in [Galicia](https://en.wikipedia.org/wiki/Galicia_(Spain))*
 
 [![Build Status](https://travis-ci.org/Sloy/gallego.svg?branch=master)](https://travis-ci.org/Sloy/gallego) [![Bintray](https://img.shields.io/bintray/v/sloy/maven/gallego.svg?maxAge=2592000)](https://bintray.com/sloy/maven/gallego/)
 
